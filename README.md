@@ -1,6 +1,6 @@
 <h1>Anthony Zhou 🎱</h1>
 
-### Hi!👋
+### Hi!👋 Please feel free to connect with me on LinkedIn or other platforms!
 
 I am a first-year student at the University of Maryland driven to pursue a career in the tech industry. I plan to use my skills to make a difference in important and practical programs. I am currently interested in video game programming.
 
