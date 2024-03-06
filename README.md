@@ -29,7 +29,3 @@ I am a first-year student at the University of Maryland driven to pursue a caree
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developer-az&" alt="developer-az" /></p>
----
-
-
-#
