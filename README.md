@@ -1,5 +1,5 @@
-<h1 align="center">Hello 👋, I'm Anthony</h1>
-<h6 align="center">I am a first-year student at the University of Maryland driven to pursue a career in the tech industry. I plan to use my skills to make a difference no matter what industry I work in. I enjoy making practical programs and entertainment apps. I am currently interested in learning software engineering, and machine learning.</h6>
+<h1 align="center">Hi!👋, I'm Anthony</h1>
+I am a first-year student at the University of Maryland driven to pursue a career in the tech industry. I plan to use my skills to make a difference no matter what industry I work in. I enjoy making practical programs and entertainment apps. I am currently interested in learning software engineering, and machine learning.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developer-az&label=Profile%20views&color=0e75b6&style=flat" alt="developer-az" /> </p>
 
