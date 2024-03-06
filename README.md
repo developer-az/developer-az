@@ -2,7 +2,7 @@
 
 ### Hi!👋 
 
-I am a first-year student at the University of Maryland driven to pursue a career in the tech industry. I plan to use my skills to make a difference whether big or small. I enjoy making practical programs and entertainment apps. I am currently interested in gaining knowledge in video game programming.
+I am a first-year student at the University of Maryland driven to pursue a career in the tech industry. I plan to use my skills to make a difference whether big or small. I enjoy making practical programs and entertainment apps. I am currently interested in gaining experience in streaming platforms.
 
 ---
 
