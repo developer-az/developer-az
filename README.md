@@ -5,7 +5,7 @@ I am a first-year student at the University of Maryland driven to pursue a caree
 
 
 - 📫 How to reach me **88anthonyzhou@gmail.com**
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="anthony--zhou" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/anthony--zhou?trk=profile-badge">Anthony Zhou</a></div>  
+
 ### 🎱 My Links
 <p align="left">
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="anthony--zhou" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/anthony--zhou?trk=profile-badge">Anthony Zhou</a></div>            
