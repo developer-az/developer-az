@@ -9,7 +9,7 @@ I am a first-year student at the University of Maryland driven to pursue a caree
 
 
 - 📫 How to reach me **88anthonyzhou@gmail.com**
-<h1>HTTP://www.anthony-zhou.com</h1>
+<a href="http://www.anthony-zhou.com" target="blank">< src="anthony-zhou.com" alt="anthonyzhou" height="30" width="40" /></a>
 
 ### 🎱 My Links
 <p align="left">
