@@ -3,7 +3,7 @@
       <a href="https://www.youtube.com/@anthonyzhou">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC3zbM3IPQw3r8KUvK2oYbAQ?color=%23E05D44&label=Subscribers:&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
  </p>
-I am a Second-Year student at the University of Maryland driven to pursue a career in Software Engineering. I plan to use my skills to make a difference no matter where I am at. I enjoy making practical programs and entertainment apps. I am currently interested in learning software engineering, and machine learning.
+I am a Second-Year student at the University of Maryland driven to pursue a career in the tech industry. I plan to use my skills to make a difference no matter where I am at. I enjoy making practical programs and entertainment apps. I am currently interested in learning software engineering, and machine learning.
 <hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developer-az&label=Profile%20views&color=0e75b6&style=flat" alt="developer-az" /> </p>
 
