@@ -3,7 +3,7 @@
 http://www.anthony-zhou.com
 
 # 💫 About Me:
-🔭 I'm currently working on my portfolio website!<br>👯 I'm looking to collaborate on interesting coding projects or teaching resources<br>🤝 I'm looking for help with Video Game Production<br>🌱 I'm currently learning C and Discrete Structures<br>💬 Ask me about stock investing or my experience as a teaching assistant<br>⚡ Fun fact: I balance coding with exploring ethics in tech!
+🔭 I'm currently working on my portfolio website!^<br>👯 I'm looking to collaborate on interesting coding projects or teaching resources<br>🤝 I'm looking for help with Video Game Production<br>🌱 I'm currently learning C and Discrete Structures<br>💬 Ask me about stock investing or my experience as a teaching assistant<br>⚡ Fun fact: I balance coding with exploring ethics in tech!
 
 
 ## 🌐 Socials:
