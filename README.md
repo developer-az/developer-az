@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=6500&color=080808&random=false&width=450&lines=Hi!%F0%9F%91%8B%2C+I'm+Anthony+Zhou" alt="Typing SVG" /></a></h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=6500&color=888888&random=false&width=450&lines=Hi!%F0%9F%91%8B%2C+I'm+Anthony+Zhou" alt="Typing SVG" /></a></h1>
 
 http://www.anthony-zhou.com
 
