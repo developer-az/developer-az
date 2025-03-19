@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=6500&color=008080&random=false&width=450&lines=Hi!%F0%9F%91%8B%2C+I'm+Anthony+Zhou" alt="Typing SVG" /></a></h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=6500&color=000000&random=false&width=450&lines=Hi!%F0%9F%91%8B%2C+I'm+Anthony+Zhou" alt="Typing SVG" /></a></h1>
  <p align="left">
       <a href="https://www.youtube.com/@anthonyzhou">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC3zbM3IPQw3r8KUvK2oYbAQ?color=%23E05D44&label=Subscribers:&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
