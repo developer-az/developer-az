@@ -2,12 +2,6 @@
 
 http://www.anthony-zhou.com
 
-### 🎱 My Links
-<p align="left">
-<a href="https://linkedin.com/in/anthony--zhou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anthony--zhou" height="30" width="40" /></a>   
-<a href="http://www.youtube.com/@anthonyzhou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="anthonyzhou" height="30" width="40" /></a>
-</p>
-
 # 💫 About Me:
 🔭 I'm currently working on my portfolio website!<br>👯 I'm looking to collaborate on interesting coding projects or teaching resources<br>🤝 I'm looking for help with Video Game Production<br>🌱 I'm currently learning C and Discrete Structures<br>💬 Ask me about stock investing or my experience as a teaching assistant<br>⚡ Fun fact: I balance coding with exploring ethics in tech!
 
