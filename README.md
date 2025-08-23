@@ -30,11 +30,17 @@ Portfolio: http://www.anthony-zhou.com
 ![](https://nirzak-streak-stats.vercel.app/?user=developer-az&theme=highcontrast&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=developer-az&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+<div align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=developer-az&radius=16&theme=high-contrast&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=developer-az&theme=great-gatsby&no-frame=true&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=highcontrast)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=developer-az&limit=5&theme=great-gatsby&combine_all_yearly_contributions=true)
