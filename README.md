@@ -42,8 +42,7 @@ Portfolio: http://www.anthony-zhou.com
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=highcontrast)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=developer-az&limit=5&theme=great-gatsby&combine_all_yearly_contributions=true)
-
+[![developer-az's GitHub stats](https://commit-warrior.vercel.app/api/stats?username=developer-az&theme=default&show_icons=true)](https://github.com/developer-az)
+![Top Languages](https://commit-warrior.vercel.app/api/top-langs?username=developer-az&theme=default&layout=compact)
 ---
 [![](https://visitcount.itsvg.in/api?id=developer-az&icon=2&color=4)](https://visitcount.itsvg.in)
