@@ -25,22 +25,6 @@ Portfolio: http://www.anthony-zhou.com
 ### Tools & Others:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=developer-az&theme=highcontrast&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=developer-az&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-<div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=developer-az&radius=16&theme=high-contrast&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=developer-az&theme=great-gatsby&no-frame=true&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=highcontrast)
-
 [![developer-az's GitHub stats](https://commit-warrior.vercel.app/api/stats?username=developer-az&theme=professional&show_icons=true&hide_rank=true)](https://github.com/developer-az)
 ![Top Languages](https://commit-warrior.vercel.app/api/top-langs?username=developer-az&theme=professional&layout=compact)
 ![GitHub Streak](https://commit-warrior.vercel.app/api/streak?username=developer-az&theme=professional)
