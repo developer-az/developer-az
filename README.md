@@ -3,8 +3,7 @@
 Portfolio: http://www.anthony-zhou.com
 
 # 💫 About Me:
-🔭 I'm currently working on my portfolio website!<br>👯 I'm looking to collaborate on interesting coding projects or teaching resources<br>🤝 I'm looking for help with AI integration<br>🌱 I'm currently learning Splunk!<br>💬 Ask me about stock investing or my experience as a SWE Intern<br>⚡ Fun fact: I enjoy using Linux!
-
+🔭 I'm currently working on my portfolio website & Tennis Mastery !<br>👯 I'm looking to collaborate on interesting coding projects or teaching resources<br>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anthony--zhou) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@anthonyzhou) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:azhou112@umd.edu) 
 
