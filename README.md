@@ -1,7 +1,7 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=6500&color=999999&center=true&vCenter=true&width=450&lines=Hi+%F0%9F%91%8B+I%27m+Anthony+Zhou" alt="Hi, I'm Anthony Zhou" /></a></h1>
 
 <p align="center">
-Software engineer finishing a B.S. in Information Science at the University of Maryland in May 2027. I build backend services and the data work around them, mostly in Java, TypeScript, Python and PostgreSQL. I'm looking for a 2027 new grad software engineering role in Boston, the DC area or New York.
+Software engineer finishing a B.S. in Information Science at the University of Maryland in May 2027. I build full-stack applications, from interactive interfaces in React and Next.js to APIs, backend services, and databases using TypeScript, Java, Python, and PostgreSQL. I enjoy connecting the pieces into complete, usable products. I'm looking for a 2027 new grad software engineering role in Boston, the DC area, or New York.
 </p>
 
 <p align="center">
@@ -12,15 +12,15 @@ Software engineer finishing a B.S. in Information Science at the University of M
 
 **[p2p-ledger](https://github.com/developer-az/p2p-ledger)** · Java, Spring Boot, PostgreSQL, Kafka / AWS SQS, TypeScript · [assistant demo](https://ledger.anthony-zhou.com)
 
-A double-entry payments API. Transfers are idempotent, both account rows are locked in id order so opposite transfers can't deadlock, and Postgres triggers reject a ledger that doesn't balance or an entry that gets edited. Events leave through a transactional outbox, so a rolled-back transfer never publishes one. A k6 load test ran the JVM out of memory at 500 req/s on a 512 MB container, which is why the service now sheds load with a fast 503. The README walks through each of these trade-offs. A TypeScript assistant answers account questions through LLM tool calls that are bound to the signed-in account in code.
+A money habits app with an AI assistant for account questions. Built on a double-entry payments API that handles transfers, tracks balances, and prevents duplicate transactions.
 
 **[Racket Form](https://racketform.anthony-zhou.com)** · Next.js, TypeScript, React Three Fiber, Supabase
 
-A tennis stroke viewer and gear catalog. It pulls racket specs, tour usage and product media into one catalog behind Next.js API routes and scores each setup from measured specs instead of marketing ratings. Strokes play on 3D skeletal models. I fixed the animation math that flipped the elbow mid-swing and synced player profiles to Supabase with local-first storage.
+A tennis stroke viewer and gear catalog. It pulls racket specs, pro usage and product media into one catalog behind Next.js API routes and scores each setup from measured specs instead of marketing ratings. Strokes play on 3D skeletal models. Synced player profiles to Supabase with local-first storage.
 
 **[UMD Tennis Court Alerts](https://github.com/developer-az/tennis-court-reserve-umd)** · Next.js, TypeScript, Upstash Redis, Resend, Vercel
 
-Emails you when a court opens on UMD's booking system. A scheduled job checks availability and alerts verified addresses, with one-click unsubscribe in every email. Typecheck, unit tests and the build run in CI on every push to main.
+Emails you when a court opens on UMD's booking system. A scheduled job checks availability and alerts verified addresses, with one-click unsubscribe in every email. Typecheck, unit tests, and the build run in CI on every push to main.
 
 ## Work
 
@@ -29,11 +29,12 @@ Emails you when a court opens on UMD's booking system. A scheduled job checks av
 - **Software Development Intern, allBETs** (2025). Owned testing of payment and fraud edge cases across web and mobile before the iOS launch, and wrote Solidity contract logic.
 - **Undergraduate Course Aide, INST346** (Computer Networking and Systems). I help students debug Linux over SSH, PowerShell scripts and Wireshark captures.
 
-I use Claude Code, Cursor and Copilot every day. Their changes go through the same review, tests and CI as anyone else's before they merge.
+I am actively integrated in AI/LLM research and modern programming workflows: Claude Code, Cursor, and Copilot every day. 
+~Unlimited amount of code reviews from these agents, tests, CI workflows, and troubleshooting.
 
-## Stack
+## Main Stack
 
-Java · TypeScript · JavaScript · Python · SQL · Spring Boot · Node.js / Express · React / Next.js · PostgreSQL / Supabase · Docker · GitHub Actions · Linux
+Python · TypeScript · JavaScript · Java · SQL · Spring Boot · Node.js / Express · React / Next.js · PostgreSQL / Supabase · Docker · GitHub Actions · Linux
 
 ## GitHub stats
 <p align="center">
