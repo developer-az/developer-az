@@ -1,7 +1,9 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=6500&color=999999&center=true&vCenter=true&width=450&lines=Hi+%F0%9F%91%8B+I%27m+Anthony+Zhou" alt="Hi, I'm Anthony Zhou" /></a></h1>
 
 <p align="center">
-Software engineer finishing a B.S. in Information Science at the University of Maryland in May 2027. I build full-stack applications, from interactive interfaces in React and Next.js to APIs, backend services, and databases using TypeScript, Java, Python, and PostgreSQL. I enjoy connecting the pieces into complete, usable products. I'm looking for a 2027 new grad software engineering role in Boston, the DC area, or New York.
+Software engineer finishing a B.S. in Information Science at the University of Maryland in May 2027. I build full-stack applications, from interactive interfaces in React and Next.js to APIs, backend services, and databases using TypeScript, Java, Python, and PostgreSQL. I enjoy connecting the pieces into complete, usable products.
+<br><br>
+I'm looking for a 2027 new grad software engineering role in Boston, the DC area, or New York.
 </p>
 
 <p align="center">
