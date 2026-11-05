@@ -106,7 +106,7 @@
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
-I have a personalized daily AI workflow for my development. I do code analysis, refactoring, and debugging every day and am versed in automated tests, and CI pipelines.
+In my daily development workflow I leverage a personalized AI agent setup. I always follow up with to manually do code analysis, refactoring, and debugging every day and am versed in automated tests, and CI pipelines.
 
 ## GitHub stats
 
